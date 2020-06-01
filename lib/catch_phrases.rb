@@ -9,5 +9,5 @@ def toadstool
 end
 
 def link
-  hyrule = "It's Dangerous To Go Alone! Take This."
+  hyrule = "It's Dangerous To Go Alone! Take This.\n"
 end
