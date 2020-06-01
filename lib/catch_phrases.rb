@@ -12,3 +12,9 @@ def link
   hyrule = "It's Dangerous To Go Alone! Take This.\n"
   puts hyrule
 end
+
+def all_phrases
+  puts phrase
+  puts status
+  puts hyrule
+end
