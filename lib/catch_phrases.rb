@@ -10,4 +10,5 @@ end
 
 def link
   hyrule = "It's Dangerous To Go Alone! Take This.\n"
+  puts hyrule
 end
