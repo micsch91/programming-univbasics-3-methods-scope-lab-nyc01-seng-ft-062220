@@ -1,7 +1,7 @@
 def mario
-  phrase = "It's-a me, Mario!"
+  $phrase = "It's-a me, Mario!"
   $status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts phrase
+  puts $phrase
 end
 
 def toadstool
@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  hyrule = "It's Dangerous To Go Alone! Take This.\n"
+  $hyrule = "It's Dangerous To Go Alone! Take This.\n"
   puts hyrule
 end
 
